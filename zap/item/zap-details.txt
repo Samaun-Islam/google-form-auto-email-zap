@@ -1,0 +1,6 @@
+Platform: Zapier
+Trigger App: Google Forms
+Action App: Gmail
+Workflow Type: Event-Based Automation
+Version: 1.0
+Status: Working Successfully
